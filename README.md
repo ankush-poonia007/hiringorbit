@@ -62,7 +62,17 @@ Streamlit displays results cleanly
 ```
 
 ---
+## 📸 Screenshots
 
+**Homepage**
+![Homepage](screenshots/homepage.png)
+
+**Search Results**
+![Search Results](screenshots/search-result.png)
+
+**Agent Handling No Results**
+![No Results](screenshots/no-results.png)
+---
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the repo
