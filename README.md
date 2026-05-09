@@ -152,7 +152,7 @@ The goal isn't just a demo — it's a foundation for a production-grade career i
 ## 👤 Author
 **Ankush Poonia**
 B.Tech AI/ML Engineering — Arya College of Engineering, Jaipur
-[LinkedIn](https://github.com/ankush-poonia007/) | [GitHub](https://github.com/ankush-poonia007/)
+[LinkedIn](https://linkedin.com/ankush-poonia007/) | [GitHub](https://github.com/ankush-poonia007/)
 
 ---
 
