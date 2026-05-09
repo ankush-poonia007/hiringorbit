@@ -3,6 +3,9 @@
 
 > Built as part of the **GFG x Google for Developers — Build with AI Series (Workshop 2)**
 
+🔗 **Live Demo:** https://hiringorbit.streamlit.app  
+🔗 **GitHub:** https://github.com/ankush-poonia007/hiringorbit
+
 ---
 
 ## 🧠 What Is HiringOrbit?
