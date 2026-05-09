@@ -1,4 +1,4 @@
-google-generativeai
+google-genai
 googlemaps
 streamlit
 python-dotenv
